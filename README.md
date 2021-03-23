@@ -7,7 +7,7 @@ A bot that currently has the following capabilities
 
 **Question and answering**
   * The bot is able to answer question based on a text the user gives the bot.
-![alt text](https://github.com/LaihoE/SmartDiscordBot/blob/main/pictures/smartbotguessingpic.png?raw=true)
+![alt text](https://github.com/LaihoE/DeepDiscord/blob/master/pics/fixedpic.png?raw=true)
 
 **Setting up**
 
