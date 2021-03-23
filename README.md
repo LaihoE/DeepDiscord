@@ -1,12 +1,12 @@
-**SmartDiscordBot**
-
-A bot that currently has the following capabilities
-
+# bot has the  following capabilities
 **Speech to text**
   * Can play youtube videos with voice commands
+  * Bot will make a beep sound when the wakeup word is recognized
+  * After the beep say your song and the bot should join your channel with some music
 
 **Question and answering**
-  * The bot is able to answer question based on a text the user gives the bot.
+  * The bot is able to answer questions based on a text the user gives the bot.
+  
 ![alt text](https://github.com/LaihoE/DeepDiscord/blob/master/pics/fixedpic.png?raw=true)
 
 **Setting up**
