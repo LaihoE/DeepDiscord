@@ -12,12 +12,11 @@ from sr_api import sr_api_call
 from credentials import creds
 import winsound
 
-
+# change the beep here
 logging.basicConfig(level=20)
 frequency = 500  # Set Frequency To 2500 Hertz
 duration = 100  # Set Duration To 1000 ms == 1 second
 
-# python mic_vad_streaming.py -m C:\Users\emill\PycharmProjects\Deepspeech\deepspeech-0.9.3-models.pbmm -s C:\Users\emill\PycharmProjects\Deepspeech\deepspeech-0.9.3-models.scorer
 class Audio(object):
     """Streams raw audio from microphone. Data is received in a separate thread, and stored in a buffer, to be read from."""
 
