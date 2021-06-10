@@ -1,4 +1,4 @@
-# bot has the  following capabilities
+# Bot has the  following capabilities
 **Speech to text**
   * Can play youtube videos with voice commands
   * Bot will make a beep sound when the wakeup word is recognized
