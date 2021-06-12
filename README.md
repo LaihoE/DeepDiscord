@@ -6,8 +6,8 @@
 
 **Question and answering**
   * The bot is able to answer questions based on a text the user gives the bot.
-  * User inputs !study <your text>
-  * Then use !question <your question>
+  * User inputs !study followed by text you want it to study
+  * Then use !question followed by your question
   
 
 **Setting up**
