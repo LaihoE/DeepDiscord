@@ -6,8 +6,9 @@
 
 **Question and answering**
   * The bot is able to answer questions based on a text the user gives the bot.
+  * User inputs !study <your text>
+  * Then use !question <your question>
   
-![alt text](https://github.com/LaihoE/DeepDiscord/blob/master/pics/fixedpic.png?raw=true)
 
 **Setting up**
 
